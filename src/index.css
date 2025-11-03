@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #44374b;
+  background-color: #00175A;
 }
 
 #app {
@@ -40,7 +40,7 @@ ul {
 li {
   margin: 1rem 0;
   padding: 1rem;
-  background-color: #ddb0eb;
+  background-color: #fff;
   border-radius: 6px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
 }
